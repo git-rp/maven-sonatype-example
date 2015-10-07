@@ -72,4 +72,9 @@
 
 		</plugins>
 	</build>
+	<parent>
+		<groupId>org.sonatype.mavenbook.multi</groupId>
+		<artifactId>simple-parent</artifactId>
+		<version>1.0</version>
+	</parent>
 </project>
